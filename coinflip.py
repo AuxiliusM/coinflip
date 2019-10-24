@@ -64,7 +64,7 @@ while wantplay == True:
         time.sleep(1)
         print("Flip")
         time.sleep(1)
-        print("Das Ergenbniss ist Kopf!")
+        print("Das Ergebnis ist Kopf!")
 
     else:
         print("Spring")
@@ -73,7 +73,7 @@ while wantplay == True:
         time.sleep(1)
         print("Flip")
         time.sleep(1)
-        print("Das Ergenbniss ist Zahl")
+        print("Das Ergebnis ist Zahl")
 
     time.sleep(1)
 
